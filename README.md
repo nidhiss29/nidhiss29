@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhiss29&label=Profile%20views&color=0e75b6&style=flat" alt="nidhiss29" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning : **Full Stack Web Development**
 
-- 💬 Hobbies **Reading , Gardening , Writing**
+- 💬 Hobbies :  **Reading , Gardening , Writing**
 
-- 📫 How to reach me **singhalnidhi1999@gmail.com**
+- 📫 How to reach me : **singhalnidhi1999@gmail.com**
 
 - 😄 Pronouns: **She/Her**
 
-- ⚡ Fun fact **I am an intensive book reader**
+- ⚡ Fun fact : **I am an intensive book reader**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
