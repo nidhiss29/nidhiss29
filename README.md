@@ -1,7 +1,7 @@
 <img align="left" src="intro.gif" alt="Nidhi Singhal">
-
+<p>
 <h1 align="center">Hi There <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm Nidhi. Pursuing Bachelors in Computer Science and a Technophile by nature.</h1>
-<h3 align="center">A passionate Learner</h3>
+<h3 align="center">A passionate Learner</h3></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhiss29&label=Profile%20views&color=0e75b6&style=flat" alt="nidhiss29" /> </p>
 
