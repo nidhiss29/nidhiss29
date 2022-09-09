@@ -1,6 +1,6 @@
 <img align="left" src="intro.gif" alt="Nidhi Singhal">
 
-<h1 align="center">Hi There <h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 24> </h1></h1>
+<h1 align="center">Hi There <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 24> </h1>
 <h2>  I'm Nidhi. Pursuing Bachelors in Computer Science and a Technophile by nature.</h2>
 <h3 align="center">A passionate Learner</h3>
 
