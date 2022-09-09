@@ -38,6 +38,7 @@
 
 
 <h2> Stuff I Work On:  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 64> </h2>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiss29&layout=compact&theme=codeSTACKr)
 <br>
 
