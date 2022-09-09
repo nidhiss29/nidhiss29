@@ -4,7 +4,9 @@
 <h2 align = "center">  I'm Nidhi. Pursuing Bachelors in Computer Science and a Technophile by nature.</h2>
 <h3 align="center">A passionate Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhiss29&label=Profile%20views&color=0e75b6&style=flat" alt="nidhiss29" /> </p>
+<p align="left">:smile:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=akshatmittal61.akshatmittal61)
+  <img src="https://komarev.com/ghpvc/?username=nidhiss29&label=Profile%20views&color=0e75b6&style=flat" alt="nidhiss29" /> </p>
 
 - 🌱 I’m currently learning **Javascript**
 
