@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhiss29&label=Profile%20views&color=0e75b6&style=flat" alt="nidhiss29" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Javascript**
 
 - 💬 Hobbies **Reading , Gardening ,Writing**
 
