@@ -42,8 +42,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiss29&layout=compact&theme=codeSTACKr)
 <br>
 
+<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif' width='56' height='56' borderradius='16px'> </h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhiss29&show_icons=true&locale=en" alt="nidhiss29" /></p>
+![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidhiss29&hide=issues&theme=codeSTACKr)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nidhiss29&" alt="nidhiss29" /></p>
 
