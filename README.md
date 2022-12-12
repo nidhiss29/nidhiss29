@@ -1,4 +1,4 @@
-<img align="left" src="intro.gif" alt="Nidhi Singhal">
+<img align="left" src="Orange and White Funny Dating Animated Presentation.gif" alt="Nidhi Singhal">
 
 <h1 align="center">Hi There <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 24> </h1>
 <h2 align = "center">  I'm Nidhi. Pursuing Bachelors in Computer Science and a Technophile by nature.</h2>
