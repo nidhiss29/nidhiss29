@@ -1,4 +1,4 @@
-<img align="left" src="" alt="Nidhi Singhal">
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/nidhiss29/nidhiss29/blob/main/Orange%20and%20White%20Funny%20Dating%20Animated%20Presentation.gif))
 
 <h1 align="center">Hi There <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 24> </h1>
 <h2 align = "center">  I'm Nidhi. Pursuing Bachelors in Computer Science and a Technophile by nature.</h2>
