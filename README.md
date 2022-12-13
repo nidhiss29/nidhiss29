@@ -1,4 +1,4 @@
-![](https://github.com/nidhiss29/nidhiss29/blob/main/intro.gif)
+![MasterHead](https://github.com/nidhiss29/nidhiss29/blob/main/intro.gif)
 
 <h1 align="center">Hi There <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 24> </h1>
 <h2 align = "center">  I'm Nidhi. Pursuing Bachelors in Computer Science and a Technophile by nature.</h2>
