@@ -33,7 +33,8 @@
 
 <a href="https://discord.gg/emptyhead#9010" target="blank"> 
 
-![icons8-discord-94|32*32](https://user-images.githubusercontent.com/82880062/207361486-842feea6-faa0-4f83-b187-5c4f6fac9121.png)  </a>
+
+![icons8-discord-32](https://user-images.githubusercontent.com/82880062/207362094-8db6118c-9e68-484f-be5b-d2e10f7e2a15.png)  </a>
 
 <a href="https://medium.com/@singhalnidhi1999"><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" /></a>
 
