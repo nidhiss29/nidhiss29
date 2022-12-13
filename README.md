@@ -23,7 +23,7 @@
 
 <h2> Connect with me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24> </h2>
 <p align="left">
-<a href="https://twitter.com/nidhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nidhi" height="30" width="40" /></a>
+<a href="https://twitter.com/nidhi" target="blank"><i class="fa- fa-discord"></i></a>
 <a href="https://github.com/nidhiss29"><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href="https://linkedin.com/in/nids250102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nids250102" height="30" width="40" /></a>
 <a href="https://instagram.com/nidhi.singhal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nidhi.singhal_" height="30" width="40" /></a>
