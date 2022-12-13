@@ -1,4 +1,5 @@
-![MasterHead](https://github.com/nidhiss29/nidhiss29/blob/main/intro.gif)
+
+![intro](https://user-images.githubusercontent.com/82880062/207311856-47b04294-bf72-4b37-8cff-554b0516c0c5.gif)
 
 <h1 align="center">Hi There <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 24> </h1>
 <h2 align = "center">  I'm Nidhi. Pursuing Bachelors in Computer Science and a Technophile by nature.</h2>
