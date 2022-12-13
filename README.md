@@ -32,9 +32,7 @@
 <a href="https://instagram.com/nidhi.singhal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nidhi.singhal_" height="30" width="40" /></a>
 
 <a href="https://discord.gg/emptyhead#9010" target="blank"> 
-
-
-![icons8-discord-32](https://user-images.githubusercontent.com/82880062/207362094-8db6118c-9e68-484f-be5b-d2e10f7e2a15.png)  </a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nidhi.singhal_" height="30" width="40" /></a>
 
 <a href="https://medium.com/@singhalnidhi1999"><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" /></a>
 
