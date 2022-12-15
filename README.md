@@ -7,7 +7,7 @@
 
 <p align="left">:smile: <img src="https://komarev.com/ghpvc/?username=nidhiss29&label=Profile%20views&color=0e75b6&style=flat" alt="nidhiss29" /> </p>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
+<img width="55%" align="right" alt="Github" src="https://github.githubassets.com/images/modules/notifications/filters-zero-dark.svg" /> 
 
 - 🌱 I’m currently learning **Javascript**
 
