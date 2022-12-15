@@ -29,6 +29,7 @@
      <a href = "https://www.linkedin.com/in/nids250102/" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmyclouddoor.com%2Fwp-content%2Fuploads%2F2019%2F11%2FLinkedin-logo.png&f=1&nofb=1" height = "30px" width = "60px" style = "margin:10px;"></a>
      <a href = "https://twitter.com/Nidhi279653483" ><img src = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Ftwitter%2Ftwitter_PNG3.png&f=1&nofb=1" height = "30px" width = "30px" style = "margin:10px;"></a>
      <a href = "https://discord.com/login?redirect_to=%2Fchannels%2F%40me" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Fthumbs%2F2x%2Fdiscord-logo.png&f=1&nofb=1" height = "30px" width = "40px" style = "margin:10px;"></a>
+     </p>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiss29&layout=compact&theme=codeSTACKr)
