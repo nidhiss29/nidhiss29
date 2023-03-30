@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **singhalnidhi1999@gmail.com**
 
--  💬 Talk to me about JavaScript, DSA
+-  💬 Talk to me about C++, DSA
 
 -  📝 I read articles on [dev.to](https://dev.to)
 
