@@ -50,7 +50,7 @@
         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height = "50px" width = "50 px"/></a>
        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height = "50px" width = "50 px"/></a>
        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height = "50px" width = "50 px"/></a>
-       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height = "50px" width = "50 px"/></a>
+       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height = "50px" width = "50 px"/></a>
        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height = "50px" width = "50 px"/></a>
        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height = "50px" width = "50 px"/></a>
 </p>
