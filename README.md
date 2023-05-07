@@ -25,8 +25,10 @@
 <p>
 <a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg"  height = "80px" width = "80px"/></a>
 <a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" height = "60px" width = "60px"/></a>
+     <a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"  height = "60px" width = "60px"/></a>
+     <a href = "#"></a>
 </p>
-
+<!--<a href = "#"></a> -->
 ### :mag_right: Contact me 
 <p>
      <a href = "https://www.linkedin.com/in/nids250102/" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmyclouddoor.com%2Fwp-content%2Fuploads%2F2019%2F11%2FLinkedin-logo.png&f=1&nofb=1" height = "30px" width = "60px" style = "margin:10px;"></a>
