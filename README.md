@@ -29,10 +29,10 @@
        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height = "50px" width = "50 px"/></a>
        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height = "50px" width = "50 px"/></a>
        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"  height = "50px" width = "50 px"/></a>
-       <a href="#"></a>
-       <a href="#"></a>
-       <a href="#"></a>
-       <a href="#"></a>
+       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height = "50px" width = "50 px"/></a>
+       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height = "50px" width = "50 px"/></a>
+       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height = "50px" width = "50 px"/></a>
+       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height = "50px" width = "50 px"/></a>
         <a href="#"></a>
          <a href="#"></a>
           <a href="#"></a>
