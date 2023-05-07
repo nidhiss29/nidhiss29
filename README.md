@@ -23,25 +23,18 @@
 
 <h2> Stuff I Work On:  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 64> </h2>
 <p>
-<a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg"  height = "80px" width = "80px"/></a>
-<a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" height = "60px" width = "60px"/></a>
-     <a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg"  height = "60px" width = "60px" /></a>
-
-  
-     <a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"  height = "60px" width = "60px" /></a>
-     <a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  height = "60px" width = "60px"/></a>
-     <a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"  height = "60px" width = "60px"/></a>
-     <a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"  height = "60px" width = "60px"/></a>
-  <!--   <a href = "#"></a>
-          <a href = "#"></a>  
-     <a href = "#"></a>    
-     <a href = "#"></a>     
-     <a href = "#"></a>     
-     <a href = "#"></a>  -->
-     
+       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height = "60px" width = "60 px"/></a>
+     <a href="#"></a>
+       <a href="#"></a>
+       <a href="#"></a>
+       <a href="#"></a>
+       <a href="#"></a>
+       <a href="#"></a>
+       <a href="#"></a>
+       <a href="#"></a>
+       <a href="#"></a>
 </p>
-<!--<a href = "#"></a> -->
-### :mag_right: Contact me 
+<h2> Contact me </h2>
 <p>
      <a href = "https://www.linkedin.com/in/nids250102/" ><img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmyclouddoor.com%2Fwp-content%2Fuploads%2F2019%2F11%2FLinkedin-logo.png&f=1&nofb=1" height = "30px" width = "60px" style = "margin:10px;"></a>
      <a href = "https://twitter.com/Nidhi279653483" ><img src = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Ftwitter%2Ftwitter_PNG3.png&f=1&nofb=1" height = "30px" width = "30px" style = "margin:10px;"></a>
