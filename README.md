@@ -25,8 +25,23 @@
 <p>
 <a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg"  height = "80px" width = "80px"/></a>
 <a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" height = "60px" width = "60px"/></a>
-     <a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"  height = "60px" width = "60px"/></a>
+     <a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg"  height = "60px" width = "60px" /></a>
+     <a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"  height = "60px" width = "60px" /></a>
+     <a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"  height = "60px" width = "60px"/></a>
+     <a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"  height = "60px" width = "60px"/></a>
+     <a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"  height = "60px" width = "60px"/>
+</a>
+     <a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"  height = "60px" width = "60px" /></a>
+     <a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  height = "60px" width = "60px"/></a>
+     <a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"  height = "60px" width = "60px"/></a>
+     <a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"  height = "60px" width = "60px"/></a>
      <a href = "#"></a>
+          <a href = "#"></a>  
+     <a href = "#"></a>    
+     <a href = "#"></a>     
+     <a href = "#"></a>     
+     <a href = "#"></a>
+     
 </p>
 <!--<a href = "#"></a> -->
 ### :mag_right: Contact me 
