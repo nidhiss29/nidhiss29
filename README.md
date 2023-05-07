@@ -46,9 +46,8 @@
         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" height = "50px" width = "50 px"/></a>
         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height = "50px" width = "50 px"/></a>
         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height = "50px" width = "50 px"/></a>
-       
-     <a href="#">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height = "50px" width = "50 px"/></a>
-       <a href="#"></a>
+       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height = "50px" width = "50 px"/></a>
+       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height = "50px" width = "50 px"/></a>
 </p>
 <h2> Contact me </h2>
 <p>
