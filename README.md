@@ -33,10 +33,15 @@
        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height = "50px" width = "50 px"/></a>
        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height = "50px" width = "50 px"/></a>
        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height = "50px" width = "50 px"/></a>
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height = "50px" width = "50 px" /></a>
+         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height = "50px" width = "50 px"/></a>
+          <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height = "50px" width = "50 px"/></a>
+       <a href="#"></a>
         <a href="#"></a>
-         <a href="#"></a>
-          <a href="#"></a>
-           <a href="#"></a>
+        <a href="#"></a>
+        <a href="#"></a>
+        <a href="#"></a>
+        <a href="#"></a>
 </p>
 <h2> Contact me </h2>
 <p>
