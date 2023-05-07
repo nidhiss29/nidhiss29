@@ -40,13 +40,16 @@
         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height = "50px" width = "50 px"/></a>
         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" height = "50px" width = "50 px"/></a>
         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" height = "50px" width = "50 px"/></a>
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height = "50px" width = "50 px"/></a>
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height = "50px" width = "50 px"/></a><br>
         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height = "50px" width = "50 px"/></a>
         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height = "50px" width = "50 px"/></a>
         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" height = "50px" width = "50 px"/></a>
         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height = "50px" width = "50 px"/></a>
         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height = "50px" width = "50 px"/></a>
        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height = "50px" width = "50 px"/></a>
+       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height = "50px" width = "50 px"/></a>
+       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height = "50px" width = "50 px"/></a>
+       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height = "50px" width = "50 px"/></a>
        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height = "50px" width = "50 px"/></a>
 </p>
 <h2> Contact me </h2>
