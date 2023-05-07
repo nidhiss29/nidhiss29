@@ -35,12 +35,12 @@
      <a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  height = "60px" width = "60px"/></a>
      <a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"  height = "60px" width = "60px"/></a>
      <a href = "#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"  height = "60px" width = "60px"/></a>
-     <a href = "#"></a>
+  <!--   <a href = "#"></a>
           <a href = "#"></a>  
      <a href = "#"></a>    
      <a href = "#"></a>     
      <a href = "#"></a>     
-     <a href = "#"></a>
+     <a href = "#"></a>  -->
      
 </p>
 <!--<a href = "#"></a> -->
