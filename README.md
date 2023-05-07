@@ -53,6 +53,8 @@
        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height = "50px" width = "50 px"/></a>
        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height = "50px" width = "50 px"/></a>
        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"  height = "50px" width = "50 px"/></a>
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  height = "50px" width = "50 px"/></a>
+       
 </p>
 <h2> Contact me </h2>
 <p>
